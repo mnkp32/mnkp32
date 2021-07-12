@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank
 - 👀 I’m interested in building end-to-end SaaS products
-- 🌱 I’m currently React and Node js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently using on React, Next js, express, Node js and MongoBD
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
